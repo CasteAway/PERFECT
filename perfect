@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282375.jpg" group-title="ENTERTAINMENT", SONY ENTERTAINMENT HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF: -1  group-title="ENTERTAINMENT", SONY ENTERTAINMENT HD
 
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282376.jpg" group-title="MOVIES", SONY MAX HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 
