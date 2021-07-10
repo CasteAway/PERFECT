@@ -1,0 +1,222 @@
+#EXTM3U 
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282375.jpg" group-title="ENTERTAINMENT", SONY ENTERTAINMENT HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282376.jpg" group-title="MOVIES", SONY MAX HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT", HUM HD
+https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282380.png" group-title="ENTERTAINMENT", SAB TV
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT", ZEE TV
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282384.png" group-title="MUSIC", B4U MUSIC
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", CRIME INVESTIGATION
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+
+#EXTINF:0 group-title="MOVIES", HITS HD
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+
+#EXTINF:0 group-title="MOVIES", HITS MOVIES HD
+https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282388.png" group-title="ENTERTAINMENT", COLOURS HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+
+#EXTINF:0 group-title="MOVIES", CINEPLEX HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+
+#EXTINF:0 group-title="KIDS", ANIMAX HD
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", BBC EARTH HD
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", PARAMOUNT CHANNEL HD
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+
+#EXTINF:0 group-title="KIDS", MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
+#EXTINF:0 group-title="KIDS", DISNEY JUNIOR
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282403.png" group-title="KIDS", DISNEY CHANNEL
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:0 group-title="KIDS", DISNEY HD INTERNATIONAL
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+
+#EXTINF:0 group-title="KIDS", NICK HD
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", DISCOVERY HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", DISCOVERY
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", DISCOVERY TURBO
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", DISCOVERY SCIENCE
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", ANIMAL PLANET HD
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", LOVE NATURE 4K
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", OUTDOOR CHANNEL
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", TRAVEL CHANNEL HD
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", HISTORY CHANNEL HD
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", HISTORY 2 CHANNEL HD
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", PULSE
+https://feed.play.mv/live/1009/u7Ia7Lul0n/master.m3u8
+
+#EXTINF:0 group-title="MOVIES", UTV MOVIES
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", TEN1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:0 group-title="SPORTS", TEN3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:0 group-title="MUSIC", 9XMUSIC
+https://feed.play.mv/live/1009/IfsLAAFX0s/master.m3u8
+
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="MUSIC", 9X JALWA
+https://feed.play.mv/live/1009/1mk8OcAGHL/master.m3u8
+
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="ENTERTAINMENT", MTV INDIA HD
+https://feed.play.mv/live/10005200/IAI4C6IMW6/master.m3u8
+
+#EXTINF:0 group-title="MUSIC", CMUSIC HD
+https://feed.play.mv/live/10005200/GXE8736IT9/master.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT", MTV HD
+https://feed.play.mv/live/10005200/FuWgLo9sCi/1.m3u8
+
+#EXTINF:0 group-title="INFOTAINMENT", FIX-FOXI
+https://feed.play.mv/live/1009/5drgr6d9GQ/master.m3u8
+
+#EXTINF:0 group-title="MOVIES", STAR SELECT HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6228
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282445.png" group-title="ENTERTAINMENT", &TV HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6234
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/K13NZK6.png" group-title="MOVIES", UTV HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6236
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332282447.png" group-title="ENTERTAINMENT", ZEE TV HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6242
+
+#EXTINF:0 group-title="ENTERTAINMENT", ZEE CAFE HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6243
+
+#EXTINF:0 group-title="MUSIC", MUSIC INDIA
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6245
+
+#EXTINF:0 group-title="NEWS", ZEE NEWS
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6246
+
+#EXTINF:0 group-title="MOVIES", ZEE CINEMA HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6247
+
+#EXTINF:0 group-title="ENTERTAINMENT", STAR PLUS HD
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6248
+
+#EXTINF:0 group-title="MOVIES",, ZEE ACTION
+http://85.203.33.88/b4CxOlKVh61/8vO4GQ220/6249
+
+#EXTINF:0 group-title="MOVIES", STAR GOLD HD
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="ENTERTAINMENT", SONY PAL
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/18801
+
+#EXTINF:0 group-title="INFOTAINMENT", HISTORY TV HD
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/18794
+
+#EXTINF:0 group-title="MOVIES", MINI PLEX HD
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/18803
+
+#EXTINF:0 group-title="ENTERTAINMENT", SAB TV HD
+http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/87302
+
+#EXTINF:0 group-title="ENTERTAINMENT", STAR BHARAT HD
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/10179
+
+#EXTINF:0 group-title="NEWS", TEZ NEWS
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/10193
+
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/34/3434381da4bb74d26381df1d3c54d73b.jpeg" group-title="KIDS", Hungama
+http://103.157.237.18:8000/play/407
+
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_f0/f0924a8eb86f88070eb06126009387bf.jpeg" group-title="MUSIC", BINDASS
+http://103.157.237.18:8000/play/313
+
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201709/utv-new.jpg" group-title="MOVIES", UTV
+http://103.157.237.18:8000/play/316
+
+#EXTINF:0 group-title="ENTERTAINMENT", ZEE SD
+http://103.157.237.18:8000/play/317
+
+#EXTINF:0 group-title="MOVIES", &XPLORE HD
+http://103.157.237.18:8000/play/331
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332440081.png" group-title="ENTERTAINMENT", SAB SD
+http://103.157.237.18:8000/play/335
+
+#EXTINF:0 group-title="KIDS", CARTOON NETWORK
+http://103.157.237.18:8000/play/401
+
+#EXTINF:0 group-title="KIDS", POGO
+http://103.157.237.18:8000/play/402
+
+#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/d9ab88d0-db6701eb-8420-55a92f3ca65a/1834646/332440084.png" group-title="KIDS", SONIC
+http://103.157.237.18:8000/play/403
+
+#EXTINF:0 group-title="KIDS", DISNEY CHANNEL
+http://103.157.237.18:8000/play/404
+
+#EXTINF:0 group-title="KIDS", DISNEY HD INTERNATIONAL
+http://103.157.237.18:8000/play/405
+
+#EXTINF:0 group-title="KIDS", MARVEL HQ
+http://103.157.237.18:8000/play/406
+
+#EXTINF:0 group-title="KIDS", NICK HD+
+http://103.157.237.18:8000/play/413
+
+#EXTINF:0 group-title="MOVIES", SONY PIX HD
+http://103.157.237.18:8000/play/711
+
+#EXTINF:0 group-title="ENTERTAINMENT", &FLIX HD
+http://103.157.237.18:8000/play/716
+
+#EXTINF:0 group-title="ENTERTAINMENT", COLORS INFINITY HD
+http://103.157.237.18:8000/play/721
+
+#EXTINF:0 group-title="MUSIC", ZOOM
+http://103.157.237.18:8000/play/803
+
+#EXTINF:0 group-title="MOVIES", &PICTURES HD
+http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/86185
